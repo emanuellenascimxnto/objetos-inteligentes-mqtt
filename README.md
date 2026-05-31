@@ -12,7 +12,7 @@ Este repositório contém o código e a documentação do projeto desenvolvido p
 - `/docs`: Documentação e figuras do sistema.
 
 ## 🚀 Como Executar
-1. [Acesse a simulação do projeto no Wokwi aqui](https://wokwi.com/projects/465576684917830657)
+1. [Acesse a simulação do projeto no Wokwi](https://wokwi.com/projects/465576684917830657)
 2. O sistema iniciará a leitura dos sensores e publicará os dados no broker MQTT configurado.
 
 ---
