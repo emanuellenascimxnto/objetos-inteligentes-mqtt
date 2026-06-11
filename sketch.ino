@@ -6,7 +6,7 @@ const char* ssid = "Wokwi-GUEST";
 const char* password = ""; 
 
 // Configurações do Broker MQTT
-const char* mqtt_server = "broker.hivemq.com";
+const char* mqtt_server = "broker.emqx.io";
 const int mqtt_port = 1883;
 
 // Definição dos pinos
